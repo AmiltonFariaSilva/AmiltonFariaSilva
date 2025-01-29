@@ -20,7 +20,7 @@ Veja o projeto completo e detalhado: [Gym](https://github.com/AmiltonFariaSilva/
 
 📖 Graduado em um Bacharel de Ciências da computação, um Tecnólogo de Gestão de Tecnologia da Informação e Pós-Graduação em BI com ênfase em Big Data
 
-💼 Engenheiro de Dados com 8 anos de Experiência, trabalhando na area de TI há mais de 15 anos.
+💼 Engenheiro de Dados com 10 anos de Experiência, trabalhando na area de TI há mais de 15 anos.
 
 🎯 Minhas Skills
 
