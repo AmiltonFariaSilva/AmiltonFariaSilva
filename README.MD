@@ -35,6 +35,13 @@ Veja o projeto completo e detalhado: [Gym](https://github.com/AmiltonFariaSilva/
 
 E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
+## Most Used Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonFariaSilva&layout=compact&theme=radical)
+
+## GitHub Stats
+
+![Amilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiltonFariaSilva&count_private=true&show_icons=true&theme=radical)
+
 
 
 📧 Meus contatos
